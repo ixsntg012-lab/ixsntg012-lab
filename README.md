@@ -15,9 +15,9 @@
 
 Masters in CS student @ University of Central Florida, Oviedo FL. I build AI systems that solve real communication and accessibility challenges — from sign language recognition to LLM-powered interview tools.
 
-- 🎯 Seeking **AI/ML Engineering internship** (August 2025) and **full-time role** (October 2025)
-- 🔨 Currently building: **RAG chatbot** using LangChain + ChromaDB
-- 📚 Learning: **PyTorch · Deep Learning · LangChain · Vector Databases**
+- 🎯 Seeking **AI/ML Engineering internship** (Summer/Fall 2025) and **full-time role** (Dec 2026)
+- 🔨 Currently building: **Mental Health RAG Chatbot** using LangChain + ChromaDB
+- 📚 Learning: **PyTorch · LangChain · RAG Pipelines · Vector Databases**
 - 📍 Oviedo, FL — open to remote and hybrid roles
 
 ---
@@ -26,8 +26,8 @@ Masters in CS student @ University of Central Florida, Oviedo FL. I build AI sys
 
 | 🏆 Project | 💡 What it does | 🛠 Tech | 🔗 |
 |---|---|---|---|
+| 📈 **MarketPulse** | AI stock sentiment analyzer with real-time news + ML prediction | Groq AI, yfinance, Scikit-learn, Streamlit | [GitHub](https://github.com/ixsntg012-lab/MarketPulse-) · [**Live Demo** 🚀](https://swetha-marketpulse.streamlit.app) |
 | 🤟 **SignBridge** | Real-time ASL fingerspelling — **98.96% accuracy** | MediaPipe, OpenCV, Scikit-learn | [GitHub](https://github.com/ixsntg012-lab/SignBridge) |
-| 🎨 **GestureCanvas** | AR drawing with hand gestures — touchless | MediaPipe, OpenCV, NumPy | [GitHub](https://github.com/ixsntg012-lab/Gesture-Paint-UI-) |
 | 🎤 **AI Mock Interview** | AI-powered interview practice with instant scoring | Flask, Gemini API | [GitHub](https://github.com/ixsntg012-lab/AI-Mock-Interview) · [**Live Demo** 🚀](https://ai-mock-interview-b8z1.onrender.com) |
 | 🏀 **NBA Salary Predictor** | Predicts player salaries — RMSE $2.50M | Scikit-learn, XGBoost, Streamlit | [GitHub](https://github.com/ixsntg012-lab/nba-salary-predictor) · [**Live Demo** 🚀](https://swetha-nba-salary.streamlit.app) |
 | 😰 **Student Stress Predictor** | Predicts stress + personalized recommendations | Flask, Scikit-learn, XGBoost | [GitHub](https://github.com/ixsntg012-lab/student-stress-prediction) · [**Live Demo** 🚀](https://student-stress-prediction-ttsd.onrender.com) |
@@ -50,6 +50,7 @@ Masters in CS student @ University of Central Florida, Oviedo FL. I build AI sys
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189C1A?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
 
 **Web & Tools**
 
