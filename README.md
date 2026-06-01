@@ -15,7 +15,7 @@
 
 Masters in CS student @ University of Central Florida, Oviedo FL. I build AI systems that solve real communication and accessibility challenges — from sign language recognition to LLM-powered interview tools.
 
-- 🎯 Seeking **AI/ML Engineering internship** (Summer/Fall 2025) and **full-time role** (Dec 2026)
+- 🎯 Seeking **AI/ML Engineering internship** (Summer/Fall 2026) and **full-time role** (Dec 2026)
 - 🔨 Currently building: **Mental Health RAG Chatbot** using LangChain + ChromaDB
 - 📚 Learning: **PyTorch · LangChain · RAG Pipelines · Vector Databases**
 - 📍 Oviedo, FL — open to remote and hybrid roles
@@ -28,6 +28,7 @@ Masters in CS student @ University of Central Florida, Oviedo FL. I build AI sys
 |---|---|---|---|
 | 📈 **MarketPulse** | AI stock sentiment analyzer with real-time news + ML prediction | Groq AI, yfinance, Scikit-learn, Streamlit | [GitHub](https://github.com/ixsntg012-lab/MarketPulse-) · [**Live Demo** 🚀](https://swetha-marketpulse.streamlit.app) |
 | 🤟 **SignBridge** | Real-time ASL fingerspelling — **98.96% accuracy** | MediaPipe, OpenCV, Scikit-learn | [GitHub](https://github.com/ixsntg012-lab/SignBridge) |
+| 🎨 **GestureCanvas** | AR hand gesture drawing — no mouse/stylus needed, 6 gesture modes, shape auto-detection | MediaPipe, OpenCV, NumPy | [GitHub](https://github.com/ixsntg012-lab/GestureCanvas) |
 | 🎤 **AI Mock Interview** | AI-powered interview practice with instant scoring | Flask, Gemini API | [GitHub](https://github.com/ixsntg012-lab/AI-Mock-Interview) · [**Live Demo** 🚀](https://ai-mock-interview-b8z1.onrender.com) |
 | 🏀 **NBA Salary Predictor** | Predicts player salaries — RMSE $2.50M | Scikit-learn, XGBoost, Streamlit | [GitHub](https://github.com/ixsntg012-lab/nba-salary-predictor) · [**Live Demo** 🚀](https://swetha-nba-salary.streamlit.app) |
 | 😰 **Student Stress Predictor** | Predicts stress + personalized recommendations | Flask, Scikit-learn, XGBoost | [GitHub](https://github.com/ixsntg012-lab/student-stress-prediction) · [**Live Demo** 🚀](https://student-stress-prediction-ttsd.onrender.com) |
@@ -72,9 +73,7 @@ Masters in CS student @ University of Central Florida, Oviedo FL. I build AI sys
 
 <div align="center">
 
-![Swetha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ixsntg012-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ixsntg012-lab&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ixsntg012-lab&theme=tokyonight&hide_border=true)
 
 </div>
 
