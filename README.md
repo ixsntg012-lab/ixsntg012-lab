@@ -13,11 +13,11 @@
 
 ## About Me
 
-Masters in CS student @ University of Central Florida, Oviedo FL. I build AI systems that solve real communication and accessibility challenges — from sign language recognition to LLM-powered interview tools.
+Masters in CS student @ University of Central Florida, Oviedo FL. I build AI systems that solve real communication, accessibility, and mental health challenges.
 
 - 🎯 Seeking **AI/ML Engineering internship** (Summer/Fall 2026) and **full-time role** (Dec 2026)
-- 🔨 Currently building: **Mental Health RAG Chatbot** using LangChain + ChromaDB
-- 📚 Learning: **PyTorch · LangChain · RAG Pipelines · Vector Databases**
+- 🔨 Currently building: **DeepFake Detector** using PyTorch + Computer Vision
+- 📚 Learning: **PyTorch · Docker · AWS · System Design**
 - 📍 Oviedo, FL — open to remote and hybrid roles
 
 ---
@@ -27,8 +27,8 @@ Masters in CS student @ University of Central Florida, Oviedo FL. I build AI sys
 | 🏆 Project | 💡 What it does | 🛠 Tech | 🔗 |
 |---|---|---|---|
 | 📈 **MarketPulse** | AI stock sentiment analyzer with real-time news + ML prediction | Groq AI, yfinance, Scikit-learn, Streamlit | [GitHub](https://github.com/ixsntg012-lab/MarketPulse-) · [**Live Demo** 🚀](https://swetha-marketpulse.streamlit.app) |
+| 🧠 **MindEase** | AI mental health support chatbot with RAG + crisis detection | LangChain, ChromaDB, Groq AI, Streamlit | [GitHub](https://github.com/ixsntg012-lab/MindEase) · [**Live Demo** 🚀](https://swetha-mindease.streamlit.app) |
 | 🤟 **SignBridge** | Real-time ASL fingerspelling — **98.96% accuracy** | MediaPipe, OpenCV, Scikit-learn | [GitHub](https://github.com/ixsntg012-lab/SignBridge) |
-| 🎨 **GestureCanvas** | AR hand gesture drawing — no mouse/stylus needed, 6 gesture modes, shape auto-detection | MediaPipe, OpenCV, NumPy | [GitHub](https://github.com/ixsntg012-lab/GestureCanvas) |
 | 🎤 **AI Mock Interview** | AI-powered interview practice with instant scoring | Flask, Gemini API | [GitHub](https://github.com/ixsntg012-lab/AI-Mock-Interview) · [**Live Demo** 🚀](https://ai-mock-interview-b8z1.onrender.com) |
 | 🏀 **NBA Salary Predictor** | Predicts player salaries — RMSE $2.50M | Scikit-learn, XGBoost, Streamlit | [GitHub](https://github.com/ixsntg012-lab/nba-salary-predictor) · [**Live Demo** 🚀](https://swetha-nba-salary.streamlit.app) |
 | 😰 **Student Stress Predictor** | Predicts stress + personalized recommendations | Flask, Scikit-learn, XGBoost | [GitHub](https://github.com/ixsntg012-lab/student-stress-prediction) · [**Live Demo** 🚀](https://student-stress-prediction-ttsd.onrender.com) |
@@ -52,6 +52,8 @@ Masters in CS student @ University of Central Florida, Oviedo FL. I build AI sys
 ![XGBoost](https://img.shields.io/badge/XGBoost-189C1A?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
 
 **Web & Tools**
 
@@ -63,7 +65,6 @@ Masters in CS student @ University of Central Florida, Oviedo FL. I build AI sys
 **Currently Learning 🔥**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
@@ -73,7 +74,9 @@ Masters in CS student @ University of Central Florida, Oviedo FL. I build AI sys
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ixsntg012-lab&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ixsntg012-lab&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ixsntg012-lab&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
