@@ -29,6 +29,7 @@ Masters in CS student @ University of Central Florida, Oviedo FL. I build AI sys
 | 📈 **MarketPulse** | AI stock sentiment analyzer with real-time news + ML prediction | Groq AI, yfinance, Scikit-learn, Streamlit | [GitHub](https://github.com/ixsntg012-lab/MarketPulse-) · [**Live Demo** 🚀](https://swetha-marketpulse.streamlit.app) |
 | 🧠 **MindEase** | AI mental health support chatbot with RAG + crisis detection | LangChain, ChromaDB, Groq AI, Streamlit | [GitHub](https://github.com/ixsntg012-lab/MindEase) · [**Live Demo** 🚀](https://swetha-mindease.streamlit.app) |
 | 🤟 **SignBridge** | Real-time ASL fingerspelling — **98.96% accuracy** | MediaPipe, OpenCV, Scikit-learn | [GitHub](https://github.com/ixsntg012-lab/SignBridge) |
+| 🎨 **GestureCanvas** | AR hand gesture drawing — no mouse/stylus needed, 6 gesture modes, shape auto-detection | MediaPipe, OpenCV, NumPy | [GitHub](https://github.com/ixsntg012-lab/GestureCanvas) |
 | 🎤 **AI Mock Interview** | AI-powered interview practice with instant scoring | Flask, Gemini API | [GitHub](https://github.com/ixsntg012-lab/AI-Mock-Interview) · [**Live Demo** 🚀](https://ai-mock-interview-b8z1.onrender.com) |
 | 🏀 **NBA Salary Predictor** | Predicts player salaries — RMSE $2.50M | Scikit-learn, XGBoost, Streamlit | [GitHub](https://github.com/ixsntg012-lab/nba-salary-predictor) · [**Live Demo** 🚀](https://swetha-nba-salary.streamlit.app) |
 | 😰 **Student Stress Predictor** | Predicts stress + personalized recommendations | Flask, Scikit-learn, XGBoost | [GitHub](https://github.com/ixsntg012-lab/student-stress-prediction) · [**Live Demo** 🚀](https://student-stress-prediction-ttsd.onrender.com) |
@@ -73,8 +74,6 @@ Masters in CS student @ University of Central Florida, Oviedo FL. I build AI sys
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ixsntg012-lab&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ixsntg012-lab&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
