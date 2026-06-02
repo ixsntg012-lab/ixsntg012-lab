@@ -71,16 +71,6 @@ Masters in CS student @ University of Central Florida, Oviedo FL. I build AI sys
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ixsntg012-lab&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-</div>
-
----
-
 <div align="center">
 
 *"Building AI systems that bridge gaps between people."*
