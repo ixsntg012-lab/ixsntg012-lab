@@ -27,13 +27,14 @@ Masters in CS student @ University of Central Florida, Oviedo FL. I build AI sys
 
 | 🏆 Project | 💡 What it does | 🛠 Tech | 🔗 |
 |---|---|---|---|
-| 📈 **MarketPulse** | AI stock sentiment analyzer with real-time news + ML prediction | Groq AI, yfinance, Scikit-learn, Streamlit | [GitHub](https://github.com/ixsntg012-lab/MarketPulse-) · [**Live Demo** 🚀](https://swetha-marketpulse.streamlit.app) |
+| 🔍 **DeepFake Detector** | Detects AI-generated face images — **99.98% accuracy** + Grad-CAM explainability + bias mitigation | PyTorch, EfficientNet-B0, Grad-CAM, Streamlit | [GitHub](https://github.com/ixsntg012-lab/deepfake-detector) |
 | 🧠 **MindEase** | AI mental health support chatbot with RAG + crisis detection | LangChain, ChromaDB, Groq AI, Streamlit | [GitHub](https://github.com/ixsntg012-lab/MindEase) · [**Live Demo** 🚀](https://swetha-mindease.streamlit.app) |
+| 📈 **MarketPulse** | AI stock sentiment analyzer with real-time news + ML prediction | Groq AI, yfinance, Scikit-learn, Streamlit | [GitHub](https://github.com/ixsntg012-lab/MarketPulse-) · [**Live Demo** 🚀](https://swetha-marketpulse.streamlit.app) |
+| 🎤 **AI Mock Interview** | AI-powered interview practice with instant scoring | Flask, Gemini API | [GitHub](https://github.com/ixsntg012-lab/AI-Mock-Interview) · [**Live Demo** 🚀](https://ai-mock-interview-b8z1.onrender.com) |
+| 😰 **Student Stress Predictor** | Predicts stress + personalized recommendations | Flask, Scikit-learn, XGBoost | [GitHub](https://github.com/ixsntg012-lab/student-stress-prediction) · [**Live Demo** 🚀](https://student-stress-prediction-ttsd.onrender.com) |
+| 🏀 **NBA Salary Predictor** | Predicts player salaries — RMSE $2.50M | Scikit-learn, XGBoost, Streamlit | [GitHub](https://github.com/ixsntg012-lab/nba-salary-predictor) · [**Live Demo** 🚀](https://swetha-nba-salary.streamlit.app) |
 | 🤟 **SignBridge** | Real-time ASL fingerspelling — **98.96% accuracy** | MediaPipe, OpenCV, Scikit-learn | [GitHub](https://github.com/ixsntg012-lab/SignBridge) |
 | 🎨 **GestureCanvas** | AR hand gesture drawing — no mouse/stylus needed, 6 gesture modes, shape auto-detection | MediaPipe, OpenCV, NumPy | [GitHub](https://github.com/ixsntg012-lab/GestureCanvas) |
-| 🎤 **AI Mock Interview** | AI-powered interview practice with instant scoring | Flask, Gemini API | [GitHub](https://github.com/ixsntg012-lab/AI-Mock-Interview) · [**Live Demo** 🚀](https://ai-mock-interview-b8z1.onrender.com) |
-| 🏀 **NBA Salary Predictor** | Predicts player salaries — RMSE $2.50M | Scikit-learn, XGBoost, Streamlit | [GitHub](https://github.com/ixsntg012-lab/nba-salary-predictor) · [**Live Demo** 🚀](https://swetha-nba-salary.streamlit.app) |
-| 😰 **Student Stress Predictor** | Predicts stress + personalized recommendations | Flask, Scikit-learn, XGBoost | [GitHub](https://github.com/ixsntg012-lab/student-stress-prediction) · [**Live Demo** 🚀](https://student-stress-prediction-ttsd.onrender.com) |
 
 ---
 
