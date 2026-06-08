@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swetha-kiran-veernapu)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ixsntg012-lab)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-e879a0?style=for-the-badge&logo=firefox&logoColor=white)](https://swetha-kiran.netlify.app)
 
 </div>
 
