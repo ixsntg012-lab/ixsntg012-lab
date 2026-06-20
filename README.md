@@ -18,15 +18,7 @@
 
 <div align="center">
 
-```
-        /\_____/\
-       ( ◉ω◉ )
-       /| 🌙  |\
-      (_|     |_)
-
-  "I don't just train models.
-   I build things that matter."
-```
+> *"I don't just train models. I build things that matter."*
 
 </div>
 
