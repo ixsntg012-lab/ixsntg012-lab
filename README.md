@@ -92,6 +92,20 @@ swetha = {
 
 ---
 
+**🏀 NBA Salary Predictor**
+> Scraped 5+ seasons of NBA stats. Engineered PER, TS%, age-prime factor features across 400+ players. Benchmarked 4 models — Ridge achieved best **RMSE of $2.50M**. Live interactive predictions.
+>
+> `Scikit-learn` `XGBoost` `BeautifulSoup` `Streamlit` · [**Live →**](https://swetha-nba-salary.streamlit.app) · [src](https://github.com/ixsntg012-lab/nba-salary-predictor)
+
+---
+
+**🎨 GestureCanvas — AR Hand Gesture Drawing**
+> Touchless AR drawing over live webcam at 30fps. 6 gesture modes (Draw/Erase/Grab/Transform/Thickness/Idle). Shape auto-detection via Douglas-Peucker. 60-step undo/redo. AVI recording.
+>
+> `MediaPipe` `OpenCV` `NumPy` · [src](https://github.com/ixsntg012-lab/GestureCanvas)
+
+---
+
 ### 🛠 Stack
 
 `Python` · `PyTorch` · `LangChain` · `RAG` · `ChromaDB` · `MediaPipe` · `OpenCV` · `Flask` · `Streamlit` · `XGBoost` · `Scikit-learn` · `Groq API` · `Gemini API` · `AWS` · `Docker`
